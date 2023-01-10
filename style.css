@@ -1,0 +1,109 @@
+#estructura {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 97vh;
+}
+
+#seccion1 {
+    background-color:  #eee8dc;
+    margin: 10px;    
+}
+
+#instrucciones {
+    border-top: solid #a8a296 2px;
+    border-bottom: solid #a8a296;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    margin: 5%;
+    text-align: center;
+    color: #574b3b;
+}
+
+#lorem {
+    margin-left: 25%;
+    text-align: justify;
+}
+
+#seccion2 {
+    background-color:  #eee8dc;
+    margin: 10px;
+}
+
+#juego {
+    color: #574b3b;
+    margin: 5%;
+    border-top: solid #a8a296 2px;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+#tablero {
+    display: grid;
+    margin-left: 20%;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 40%;
+    width: 60%;
+}
+
+#posicion1 {
+
+}
+
+#posicion2 {
+    border-left: solid #a1978b 3px;
+    border-right: solid #a1978b 3px;
+}
+
+#posicion3 {
+
+}
+
+#posicion4 {
+    border-top: solid #a1978b 3px;
+    border-bottom: solid #a1978b 3px;
+}
+
+#posicion5 {
+    border: solid #a1978b 3px;
+}
+
+#posicion6 {
+    border-top: solid #a1978b 3px;
+    border-bottom: solid #a1978b 3px;
+}
+
+#posicion7 {
+
+}
+
+#posicion8 {
+    border-left: solid #a1978b 3px;
+    border-right: solid #a1978b 3px;
+}
+
+#posicion9 {
+    
+}
+
+
+
+#seccion3 {
+    background-color:  #eee8dc;
+    margin: 10px;
+}
+
+#historia {
+    color: #574b3b;
+    border-top: solid #a8a296 2px;
+    border-bottom: solid #a8a296;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    margin: 5%;
+    text-align: center;
+}
+
+#lorem2 {
+    margin-left: 25%;
+    text-align: justify;
+}
