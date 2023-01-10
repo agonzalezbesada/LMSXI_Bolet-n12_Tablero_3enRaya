@@ -86,7 +86,37 @@
     
 }
 
+div h3 {
+    text-align: center;
+    color: #574b3b;
+}
 
+div>table {
+    margin-left: 25%;
+    width: 50%;
+}
+
+tr {
+    height: 3vh;
+}
+
+table * th {
+    color: #756a5d;
+}
+
+table tr td {
+    text-align: center;
+    color: #756a5d;
+}
+
+#oscura {
+    background-color: #dad3c9;
+}
+
+div span div {
+    text-align: center;
+    color: #756a5d;
+}
 
 #seccion3 {
     background-color:  #eee8dc;
