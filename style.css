@@ -101,6 +101,11 @@
     
 }
 
+img {
+    position: absolute;
+    height: 96%;
+}
+
 div h3 {
     text-align: center;
     color: #574b3b;
